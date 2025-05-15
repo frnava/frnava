@@ -1,5 +1,5 @@
 ![BBQ](https://github.com/user-attachments/assets/4213602f-1c01-4eda-a4a8-7fa124f632ba)
-![BBQ](https://github.com/user-attachments/assets/82e655da-ab4b-4fa8-b54f-d8298ab28517)
+
 ## Hi there 👋
 
 <!--
